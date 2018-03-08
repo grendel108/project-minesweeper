@@ -6,7 +6,6 @@ Minesweeper will be a 5 x 5 square.
 
 INPUTS
 Left click = reveal
-
 Right click = flag
 Random placement of bombs
 Preset number of bombs. Number of bombs is proportional to layout size. This project will start with 5 x 5 only.
