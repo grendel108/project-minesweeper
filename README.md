@@ -12,10 +12,11 @@ Preset number of bombs. Number of bombs is proportional to layout size. This pro
 
 
 OUTPUTS
-Grey squares become either white/blank or white/n
-n = number of contiguous bombs
-Clicking on bomb will turn square red and lose game.
-Clearing all the grey squares without clicking a bomb will win game.
+
+- Grey squares become either white/blank or white/n
+- n = number of contiguous bombs
+- Clicking on bomb will turn square red and lose game.
+- Clearing all the grey squares without clicking a bomb will win game.
 
 
 VARIABLES
